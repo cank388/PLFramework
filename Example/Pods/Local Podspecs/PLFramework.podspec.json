@@ -1,0 +1,22 @@
+{
+  "name": "PLFramework",
+  "version": "0.1.0",
+  "summary": "A short description of PLFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cank388/PLFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cank388": "cankalender.tr@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/cank388/PLFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PLFramework/Classes/**/*"
+}

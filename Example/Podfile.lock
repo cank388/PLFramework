@@ -1,0 +1,16 @@
+PODS:
+  - PLFramework (0.1.0)
+
+DEPENDENCIES:
+  - PLFramework (from `../`)
+
+EXTERNAL SOURCES:
+  PLFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLFramework: 70d1f65dd42b325a6f12ea7d4e7a6972181d04dc
+
+PODFILE CHECKSUM: bfdbca08aa2d566058e8afe97face24b72a2a410
+
+COCOAPODS: 1.15.2
