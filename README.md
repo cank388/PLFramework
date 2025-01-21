@@ -95,6 +95,19 @@ The framework provides comprehensive error handling through `PLErrors`:
 - Swift 5.0+
 - XCode 15.2
 
+## Screenshots of Example App
+
+<img src="https://github.com/user-attachments/assets/de2e238f-719e-4123-a978-4034b3107b2b" width="300" alt="Simulator Screenshot 1">
+<img src="https://github.com/user-attachments/assets/80db9c76-98db-44ee-81e9-b0267fd9ac67" width="300" alt="Simulator Screenshot 2">
+
+## Nasıl Yaptım? 
+
+Öncelikle modelleri oluşturdum. GraphNode ve GraphEdge olarak isimlendirdim. Sonrasında bu graph.json verisini parse edecek yapıyı kurdum.
+Daha sonra djikstra algoritmasını claude yardımıyla kurdum. Example app içinde json verisini parse edip framework'u çağırıp hesaplamaları yaptırdım.
+Sonrasında ise olabildiğince genişletebilir bir yapı kurmaya çalıştım. Error kontrolleri ekledim. 
+
+Özetle önce basit yapıyı kurgulayıp, çalıştığını görüp, sonrasında genişlettim.
+
 ## Author
 
 cank388, cankalender.tr@gmail.com
